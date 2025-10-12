@@ -26,7 +26,7 @@
   <a href="https://facebook.com/sorawit.daorueang](https://www.facebook.com/war.soravit/?locale=th_TH">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/sorawit.codes">
+  <a href="https://www.instagram.com/war_sorawit13/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
