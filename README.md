@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHozZXd0NjNkN2sxZXN2NXl3cGVqODA5anJmNDI4ZWlqNWoxdnhvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Aa7LPlzUFSHyiKkmHg/giphy.gif" width="280"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pkejk4N3ltaXZnbjViOThvYjV6M2x6MGdwOGU2MGU5Ym16aHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7eofpsfd47A15xcUBo/giphy.gif" width="280"/>
 
   <h1>👋 Hi there, I'm <span style="color:#00C4FF">Sorawit Daorueang</span></h1>
 
