@@ -5,10 +5,10 @@
   <h1>👋 Hi there, I'm <span style="color:#00C4FF">Sorawit Daorueang</span></h1>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Architect;Clean+Code+Lover;Always+Learning+Something+New!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Backend+Developer" alt="Typing SVG" />
   </p>
 
-  <p><i>💡 Backend Developer | ☁️ API Builder | ⚙️ Node.js & Golang Enthusiast</i></p>
+  <p><i>💡 Backend Developer</i></p>
 
 <p align="center">
   <a href="https://github.com/srw2001">
