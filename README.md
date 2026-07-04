@@ -31,16 +31,4 @@
   </a>
 </p>
 
-
-  <hr style="width:60%; border: 0; border-top: 1px solid #00C4FF; margin: 20px auto;">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=srw2001&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srw2001&theme=tokyonight&hide_border=true" height="160"/>
-  </p>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,redis,docker,git,linux,vscode" />
-  </p>
-
 </div>
